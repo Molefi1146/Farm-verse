@@ -1,3 +1,1 @@
-# Farm-verse
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Molefi1146/Farm-verse)
+An Agricultural crowd collab platform where farmers can collaborate on land, resources, finance, labor and equipment including other stuff to achieve an outcome.  
